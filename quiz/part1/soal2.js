@@ -38,22 +38,22 @@ switch (bulan) {
         namaBulan = "juni";
         break;
     case "7":
-        namaBulan = "januari";
+        namaBulan = "juli";
         break;
     case "8":
-        namaBulan = "februari";
+        namaBulan = "agustus";
         break;
     case "9":
-        namaBulan = "maret";
+        namaBulan = "september";
         break;
     case "10":
-        namaBulan = "april";
+        namaBulan = "oktober";
         break;
     case "11":
-        namaBulan = "mei";
+        namaBulan = "november";
         break;
     case "12":
-        namaBulan = "juni";
+        namaBulan = "desember";
         break;
 }
 
